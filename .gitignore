@@ -1,5 +1,5 @@
 __pycache__
 .idea
-./dist
-./build
-./smsto.egg-info
+/dist/
+/build/
+/smsto.egg-info/
